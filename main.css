@@ -1,14 +1,14 @@
 body {
-    font-family: fantasy;
+    font-family: sans-serif;
   }
   
   ul {
-    font-family: serif;
+    font-family: sans-serif;
     list-style: circle;
 }
 
   ol {
-    font-family: cursive;
+    font-family: monospace;
   }
 
 .list {
